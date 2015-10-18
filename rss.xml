@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[click. edit. smile.]]></title>
+        <description><![CDATA[click. edit. smile.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 18 Oct 2015 04:46:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[📷 Best Photo Apps for Mac | Tonality, Intensify, FX Photo Studio and other.]]></title>
+            <description><![CDATA[<article><h1>📷 Best Photo Apps for Mac | Tonality, Intensify, FX Photo Studio and other.</h1><p>Photo editing software by Macphun: user friendly interface, multiple presets, custom editing features, noise removal software, black and white photography</p><img src="http://macphun.com/uploads/blog/RedM-AppIcon-28_38_M_22629.png"></article>]]></description>
+            <link>http://macphun.com/products</link>
+            <guid isPermaLink="false">b287f903-d3cb-499e-936b-f8070c13a78f</guid>
+            <pubDate>Sun, 18 Oct 2015 04:45:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
