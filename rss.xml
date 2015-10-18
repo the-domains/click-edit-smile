@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[click. edit. smile.]]></title>
         <description><![CDATA[click. edit. smile.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/click-edit-smile/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 04:46:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 04:46:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/click-edit-smile/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lance Camera Straps | Braided leather and cord camera straps. Handmade in the USA.]]></title>
+            <description><![CDATA[<article><h1>Lance Camera Straps | Braided leather and cord camera straps. Handmade in the USA.</h1><p>Braided leather and cord camera straps. Handmade in the USA.</p><img src="http://lancecamerastraps.com/wp-content/uploads/2015/01/Braided-Leather-Non-adjust-14.jpg"></article>]]></description>
+            <link>http://lancecamerastraps.com/</link>
+            <guid isPermaLink="false">b2cae1e8-4fe8-4bc0-81d5-f67ebeaeed09</guid>
+            <pubDate>Sun, 18 Oct 2015 04:45:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[📷 Best Photo Apps for Mac | Tonality, Intensify, FX Photo Studio and other.]]></title>
             <description><![CDATA[<article><h1>📷 Best Photo Apps for Mac | Tonality, Intensify, FX Photo Studio and other.</h1><p>Photo editing software by Macphun: user friendly interface, multiple presets, custom editing features, noise removal software, black and white photography</p><img src="http://macphun.com/uploads/blog/RedM-AppIcon-28_38_M_22629.png"></article>]]></description>
