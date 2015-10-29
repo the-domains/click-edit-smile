@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://petapixel.com'
-  name: PetaPixel
-  favicon: 'http://petapixel.com/favicon.ico'
-  domain: petapixel.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://petapixel.com/'
+inLanguage: en
+starred: false
 keywords:
   - camera
   - a-mounts
@@ -18,19 +17,22 @@ keywords:
   - instagram
   - sony
 description: 'The coolest blog on the Internet for photography enthusiasts! Photo and camera news, reviews, and inspiration'
-inLanguage: en
+datePublished: '2015-10-29T20:05:40.544Z'
+dateModified: '2015-10-29T20:05:33.710Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://petapixel.com/'
 title: 'PetaPixel - Photography and Camera News, Reviews, and Inspiration'
-datePublished: '2015-10-18T04:45:45.321Z'
-dateModified: '2015-10-18T04:43:10.309Z'
 sourcePath: _posts/2015-10-18-petapixel-photography-and-camera-news-reviews-and-inspir.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: PetaPixel
+  domain: petapixel.com
+  url: 'http://petapixel.com'
+  favicon: 'http://petapixel.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>PetaPixel - Photography and Camera News&amp;comma; Reviews&amp;comma; and Inspiration</h1><p>The coolest blog on the Internet for photography enthusiasts&amp;excl; Photo and camera news&amp;comma; reviews&amp;comma; and inspiration</p><img src="http://petapixel.com/assets/images/largelogo.jpg" /></article>
+<article style=""><h1>PetaPixel - Photography and Camera News, Reviews, and Inspiration</h1><p>The coolest blog on the Internet for photography enthusiasts! Photo and camera news, reviews, and inspiration</p><img src="http://petapixel.com/assets/images/largelogo.jpg" /></article>
