@@ -1,7 +1,7 @@
 name: click. edit. smile.
 favicon: null
-layout_spectrum: 0.24321
-typography_spectrum: 0.08362403488717973
+layout_spectrum: 0.47693
+typography_spectrum: 0.48763
 cta:
   domain: null
   bucket: null
@@ -16,8 +16,8 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0
+  brandStrength: 0.3125
   lightness: 0.5925074811093509
-  saturation: 0.5103229016531259
+  saturation: 0.5625
   rhythmicContrast: 0.44100600969977677
 purpose: []
