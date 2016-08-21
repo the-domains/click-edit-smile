@@ -5,17 +5,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.6702509
-  brandStrength: 0.3125
-  lightness: 0.7473118
-  brandColors: []
+  saturation: 0.8333333
+  brandStrength: 0.3637993
+  lightness: 0.4516129
+  brandColors:
+    - '#060709'
+    - '#013E98'
+    - '#4F9280'
+    - '#D5A484'
+    - '#6A4727'
   rhythmicContrast: 0.441006
 cta:
   bucket: null
@@ -25,11 +30,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: click. edit. smile.
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.48763
-layout_spectrum: 0.47693
+layout_spectrum: 0.9247312
